@@ -18,7 +18,7 @@ A responsive frontend-only project simulating a social media settings panel. Bui
 ## 🚀 Live Demo
 
 - 🔗 [GitHub Pages](https://mohitmehtre.github.io/socialmedia-ui-settings/)
-- 🔗 [Netlify](https://konnichiwa-social.netlify.app/)
+- 🔗 [Netlify](https://konnichiwa-social-live.netlify.app/)
 
 ---
 
